@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Celery Django Project</title>
 </head>
 <body>
     <h1>🚀 Celery Django Project</h1>
